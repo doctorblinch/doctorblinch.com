@@ -1,0 +1,28 @@
+body{
+    background: #ccc9cd;
+    color: #404040;
+}
+::selection {
+    background-color: yellow;
+    color: black;
+}
+
+a{
+  text-decoration: none;
+  color: #5183f5;
+}
+
+a:hover{
+    color: #0647da;
+}
+
+.block-content{
+    margin-left: 10%;
+    margin-right: 10%;
+    max-width: 1200px;
+}
+
+p {
+    border-bottom: 2px solid #ebebeb;
+    padding-bottom: .5rem;
+}
