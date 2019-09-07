@@ -11,7 +11,7 @@ import logo from '../components/user.png'
 function App() {
   return (
     <BrowserRouter>
-        <Helmet titleTemplate="%s - doctorblinch" defaultTitle="doctorblinch.com">
+        <Helmet titleTemplate="%s - Ivan Horokhovskyi" defaultTitle="Ivan Horokhovskyi">
             <meta charSet="utf-8" />
             <link rel="shortcut icon" href={logo} />
         </Helmet>

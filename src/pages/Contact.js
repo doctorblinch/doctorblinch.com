@@ -10,8 +10,8 @@ const Contact = () => {
             <div className={"block-content"}>
                 <div>
                     <br/>
-                <p style={{fontSize:"140%"}}>
-                    if you have any questions, comments, suggestions or concerns <b>=></b> please contact me!
+                <p style={{fontSize:"140%"}} className="with_line">
+                    If you have any questions, comments, suggestions or concerns <b>=></b> Please contact me!
                 </p>
                 </div>
                 <div style={{fontSize:"120%"}}>

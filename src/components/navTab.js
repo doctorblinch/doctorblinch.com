@@ -2,14 +2,14 @@ import React from "react";
 import { NavLink } from "react-router-dom";
 
 const NavTab = props => {
-  var activeStyle = {
+  let activeStyle = {
     color: "#fff",
     fontWeight: "bold"
   };
 
-  var navStyle = {
+  let navStyle = {
     color: "#20beff",
-    //fontSize: "110%",
+    fontSize: "110%",
     marginLeft: "7.5%"
   };
   return (

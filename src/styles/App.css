@@ -22,7 +22,7 @@ a:hover{
     max-width: 1200px;
 }
 
-p {
+p.with_line {
     border-bottom: 2px solid #ebebeb;
     padding-bottom: .5rem;
 }
